@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9de6e22e1c96a255529511a7ffae40ccbf594f0d
 module.exports = function towelSort (matrix) {
     let sortedMatrix = [];
     if (matrix) {
